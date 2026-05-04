@@ -3,7 +3,7 @@
 
 **Materia:** Sintaxis y Semántica de los Lenguajes (UTN-FRBA)
 
-**Tema:** Proceso de compilación: Del código fuente al ejecutable.
+**Tema:** Proceso de compilación: Del código fuente al ejecutable..
 
 ---
 
